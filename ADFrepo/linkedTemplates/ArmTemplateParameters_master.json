@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "ADFrepo"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
