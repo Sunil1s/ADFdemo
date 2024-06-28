@@ -1,0 +1,9 @@
+{
+	"name": "ADFrepo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3a743b62-2ce2-4368-91ec-6a2d25f9d166",
+		"tenantId": "2442ae7e-54c9-41eb-8f48-f332d6d52e14"
+	}
+}
